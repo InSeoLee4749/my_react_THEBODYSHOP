@@ -1,5 +1,22 @@
-
+.height{
+    padding-top: 10px;
+}
 .sw3 {
     height: 600px;
     background-color: rgb(64, 119, 64);
+}
+#banner{
+    margin-top: 170px;
+}
+.banner1{
+    border-radius: 140px;
+    width: 1140px;
+}
+.banner2{
+    border-radius: 140px;
+    width: 1140px;
+}
+.banner3{
+    border-radius: 140px;
+    width: 1140px;
 }

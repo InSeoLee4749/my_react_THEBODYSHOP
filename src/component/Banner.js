@@ -6,7 +6,7 @@ import { Autoplay, Pagination, Navigation } from "swiper";
 export default function Banner(props) {
     return (
         <section id="banner">
-            <div className={` ${banner.height}`}>
+            <div className={`${banner.height}`}>
                 <Swiper
                     spaceBetween={30}
                     centeredSlides={true}
@@ -24,7 +24,8 @@ export default function Banner(props) {
                     <SwiperSlide className={`banner1`}></SwiperSlide>
                     <SwiperSlide className={`banner2`}></SwiperSlide>
                     <SwiperSlide className={`banner3`}></SwiperSlide>
-                    
+                    <SwiperSlide className={`banner4`}></SwiperSlide>
+                    <SwiperSlide className={`banner2`}></SwiperSlide>
                     
                 </Swiper>
             </div>
