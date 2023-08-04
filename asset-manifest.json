@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my_react_THEBODYSHOP/static/css/main.cb12f662.css",
-    "main.js": "/my_react_THEBODYSHOP/static/js/main.38bea230.js",
+    "main.css": "/my_react_THEBODYSHOP/static/css/main.ad522115.css",
+    "main.js": "/my_react_THEBODYSHOP/static/js/main.cfbc7066.js",
     "index.html": "/my_react_THEBODYSHOP/index.html",
-    "main.cb12f662.css.map": "/my_react_THEBODYSHOP/static/css/main.cb12f662.css.map",
-    "main.38bea230.js.map": "/my_react_THEBODYSHOP/static/js/main.38bea230.js.map"
+    "main.ad522115.css.map": "/my_react_THEBODYSHOP/static/css/main.ad522115.css.map",
+    "main.cfbc7066.js.map": "/my_react_THEBODYSHOP/static/js/main.cfbc7066.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb12f662.css",
-    "static/js/main.38bea230.js"
+    "static/css/main.ad522115.css",
+    "static/js/main.cfbc7066.js"
   ]
 }
