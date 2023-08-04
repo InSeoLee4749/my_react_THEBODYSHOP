@@ -21,7 +21,7 @@ p {
 }
 #hd #ad {
   transition: 0.5s;
-  line-height: 40px;
+  line-height: 73px;
 }
 #hd h1 {
   transition: 0.5s;
@@ -29,10 +29,10 @@ p {
 #hd.scrolldown {
   -webkit-backdrop-filter: blur(15px);
           backdrop-filter: blur(15px);
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(2, 82, 76, 0.4);
 }
 #hd.scrolldown #ad {
-  margin-top: -40px;
+  margin-top: -73px;
 }
 #hd.scrolldown h1 {
   height: 31px;
@@ -42,9 +42,9 @@ p {
   margin-top: -63px;
 }
 #hd.scrolldown .navbar-nav a {
-  font-size: 14px;
+  font-size: 21px;
   padding: 0 15px;
-  color: black;
+  color: white;
   line-height: 1;
   letter-spacing: -0.085em;
 }
@@ -65,7 +65,7 @@ p {
   margin-top: 3px;
   padding: 0 15px;
   display: block;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1;
   letter-spacing: -0.085em;
 }
