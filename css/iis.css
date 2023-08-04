@@ -19,6 +19,9 @@ p {
   top: 0;
   transition: 0.5s;
 }
+#hd #ad {
+  transition: 0.5s;
+}
 #hd h1 {
   transition: 0.5s;
 }
@@ -26,6 +29,9 @@ p {
   -webkit-backdrop-filter: blur(15px);
           backdrop-filter: blur(15px);
   background-color: rgba(255, 255, 255, 0.6);
+}
+#hd.scrolldown #ad {
+  transform: translateY(-100%);
 }
 #hd.scrolldown h1 {
   height: 31px;
@@ -179,4 +185,4 @@ h1 a img {
   width: 64px;
   height: 64px;
   content: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 80 82' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M56 81L16 41L56 1' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3C/path%3E%3C/svg%3E");
-}
+}/*# sourceMappingURL=iis.css.map */
