@@ -71,11 +71,11 @@ p {
 #basic-navbar-nav{
     .navbar-nav{
         a{
-            color: #fff;
+            color: black;
             margin-top: 3px;
             padding: 0 15px;
             display: block;
-            font-size: 17px;
+            font-size: 21px;
             line-height: 1;
             letter-spacing: -0.085em;
         }
@@ -128,6 +128,12 @@ h1{
     }
     .banner3{
         background-image: url(https://www.thebodyshop.co.kr/files/public/site/2023/202305/dcb064a5-fee7-4d94-a918-9c242257fdc0.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 600px;
+    }
+    .banner4{
+        background-image: url(https://www.thebodyshop.co.kr/files/public/site/2023/202303/refillbar_store.jpg);
         background-repeat: no-repeat;
         background-position: center;
         height: 600px;
