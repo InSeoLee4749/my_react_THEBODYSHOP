@@ -19,12 +19,19 @@ p {
     left:0; right:0;
     top:0;
     transition: 0.5s;
+    #ad{
+        transition: 0.5s;
+
+    }
     h1{
         transition: 0.5s;
     }
     &.scrolldown{
         backdrop-filter: blur(15px);
         background-color: rgba(255, 255, 255, 0.6);
+        #ad{
+            transform: translateY(-100%);
+        }
         h1{
             height: 31px;
             img{
@@ -42,7 +49,7 @@ p {
                 
             }
         }
-
+        
     }
 }
 
