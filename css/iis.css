@@ -21,7 +21,7 @@ p {
 }
 #hd #ad {
   transition: 0.5s;
-  line-height: 73px;
+  line-height: 40px;
 }
 #hd h1 {
   transition: 0.5s;
@@ -32,7 +32,7 @@ p {
   background-color: rgba(2, 82, 76, 0.4);
 }
 #hd.scrolldown #ad {
-  margin-top: -73px;
+  margin-top: -86px;
 }
 #hd.scrolldown h1 {
   height: 31px;
